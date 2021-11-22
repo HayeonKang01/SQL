@@ -227,4 +227,3 @@ where cno in (select c.cno from lecture l inner join course c on l.cno=c.cno
 inner join professor p on l.pno = p.pno
 where pdept='CE');
 
-
