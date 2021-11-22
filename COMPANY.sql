@@ -150,5 +150,3 @@ where plocation = 'SEOUL' and not dlocation = ‘SEOUL';
 
 
 
-
-
